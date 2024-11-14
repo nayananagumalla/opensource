@@ -1,0 +1,3 @@
+N=int(input())
+note=10*N
+print(note)
