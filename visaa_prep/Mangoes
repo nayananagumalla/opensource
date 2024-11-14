@@ -1,0 +1,3 @@
+X,Y,Z=list(map(int,input().split()))
+M=(Z-Y)//X
+print(M)
