@@ -1,0 +1,7 @@
+N=input().strip()
+dig_sum=sum(int(digit)for digit in N)
+
+if dig_sum%2==0:
+    print("Vignesh")
+else:
+    print("Charan")
